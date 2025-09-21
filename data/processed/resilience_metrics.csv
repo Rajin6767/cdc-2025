@@ -1,0 +1,94 @@
+Industry,Drawdown_2020,Recovered_Years
+                    Housing,-0.02537471290786245,
+                    Other real estate,0.6163060523002603,1.0
+                Accommodation,-0.32784959668387725,3.0
+                Administrative and support services,-0.0386584019383291,2.0
+                Ambulatory health care services,-0.24898797637299427,2.0
+"                Amusements, gambling, and recreation industries",,1.0
+                Apparel and leather and allied products,-0.08776343152863939,3.0
+                Chemical products,0.08212765326448819,1.0
+                Computer and electronic products2,-0.0285132827735651,2.0
+                Computer systems design and related services,0.037934105463689936,1.0
+"                Electrical equipment, appliances, and components",-0.1622745957090443,
+                Fabricated metal products,-0.03575375186251995,2.0
+"                Federal Reserve banks, credit intermediation, and related activities",-0.12086475413138564,2.0
+                Food and beverage and tobacco products,0.05196574765604611,1.0
+                Food services and drinking places,,1.0
+"                Funds, trusts, and other financial vehicles",,1.0
+                Furniture and related products,0.06858242805293191,1.0
+                Hospitals,-0.48349669202320134,2.0
+                Insurance carriers and related activities,-0.375532736331086,3.0
+                Legal services,0.001486575294369387,1.0
+                Machinery,-0.08877995139548477,2.0
+                Miscellaneous manufacturing,-0.13352625782557684,2.0
+"                Miscellaneous professional, scientific, and technical services",-0.10521846441372722,3.0
+"                Motor vehicles, bodies and trailers, and parts",0.02658967789148964,1.0
+                National defense,0.14153029828458427,1.0
+                Nondefense,-0.07610109512629978,
+                Nonmetallic mineral products,-0.05323476688604988,3.0
+                Nursing and residential care facilities,,1.0
+                Other transportation equipment3,-0.08019629811812598,
+                Paper products,-0.2783001723694675,3.0
+"                Performing arts, spectator sports, museums, and related activities",0.02806462815671698,1.0
+                Petroleum and coal products,-0.13349482691356862,
+                Plastics and rubber products,-0.20439978487848348,3.0
+                Primary metals,0.07184050527326462,1.0
+                Printing and related support activities,-0.20525833758827883,
+                Real estate,0.45611619341827403,1.0
+                Rental and leasing services and lessors of intangible assets,-0.0015714255614723196,
+"                Securities, commodity contracts, and investments",0.19256367842224378,1.0
+                Social assistance,,1.0
+                Textile mills and textile product mills,-0.22420319984919687,3.0
+                Waste management and remediation services,,1.0
+                Wood products,-0.28703362076201333,2.0
+            Accommodation and food services,-0.32796054434309196,3.0
+            Administrative and waste management services,-0.04778792155974258,2.0
+            Air transportation,-0.2184195764127625,3.0
+"            Arts, entertainment, and recreation",0.028220550957686975,1.0
+            Broadcasting and telecommunications4,-0.08163739706920896,
+"            Data processing, internet publishing, and other information services",-0.0838694010534843,
+            Durable goods,-0.05173872367432368,2.0
+            Educational services,0.13808774453341124,1.0
+            Finance and insurance,-0.29494767960597734,3.0
+            Food and beverage stores,-0.04591183658305752,
+            General government,-0.9062767758598609,3.0
+            General merchandise stores,-0.22829792407156527,
+            Government enterprises,-1.0,2.0
+            Health care and social assistance,-0.4711562475662085,2.0
+            Management of companies and enterprises,-0.15438251321373922,
+"            Mining, except oil and gas",,1.0
+            Motion picture and sound recording industries,-0.2405612128913489,
+            Motor vehicle and parts dealers,inf,1.0
+            Nondurable goods,-0.06922984674984389,2.0
+            Oil and gas extraction,-0.7593047090874622,
+            Other retail,-0.4110877884258391,
+            Other transportation and support activities,-0.16922701670289522,
+            Pipeline transportation,-0.520204003407474,
+"            Professional, scientific, and technical services",-0.09216992695200597,2.0
+"            Publishing industries, except internet (includes software)",0.025519605225739216,1.0
+            Rail transportation,-0.02709375492805428,2.0
+            Real estate and rental and leasing,0.26114547450735104,1.0
+            Support activities for mining,-0.5207450694906426,
+            Transit and ground passenger transportation,-1.0,
+            Truck transportation,0.026354271032217547,1.0
+            Warehousing and storage,-0.2684340230646655,
+            Water transportation,0.08157227017541487,1.0
+"        Arts, entertainment, recreation, accommodation, and food services",0.008952107686750565,1.0
+        Construction,-0.18887426962322884,
+"        Educational services, health care, and social assistance",0.11325829140673842,1.0
+        Federal,-0.029862791957542743,3.0
+"        Finance, insurance, real estate, rental, and leasing",-0.2668821920519326,3.0
+        Information,-0.08109765395537108,
+        Manufacturing,-0.051827996499908977,2.0
+        Mining,-0.6796975944455148,
+"        Other services, except government",-0.02043786311973141,3.0
+        Professional and business services,-0.09282268119596312,2.0
+        Retail trade,-0.39130460510875886,
+        State and local,0.13589951173612244,1.0
+        Transportation and warehousing,-0.0732750340737051,3.0
+        Utilities,0.005170883444423018,1.0
+        Wholesale trade,0.03774768063195423,1.0
+    Government5,-0.01726778455800355,3.0
+    Private industries,-0.04563623909186207,
+"Space economy excluding satellite television, satellite radio, and educational services6",-0.02796883155322702,4.0
+Space economy1,-0.03952231011873869,
