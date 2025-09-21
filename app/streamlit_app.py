@@ -7,6 +7,44 @@ from sklearn.metrics import mean_squared_error, r2_score
 import numpy as np
 
 st.set_page_config(page_title="Resilience Explorer", layout="wide")
+def local_css(file_name):
+    css_path = Path(__file__).parent / file_name
+    with open(css_path) as f:
+        st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
+local_css("styles/space_theme.css")
+
+
+
+
+
+
+def set_space_theme():
+    # Sun on the left
+    st.markdown(
+        """
+        <div class="sun-container" style="margin-top:40px;">
+    <img src="https://purepng.com/public/uploads/large/purepng.com-sunsunlightrayssolar-1411527180926csoj9.png"
+         alt="sun" width="240"
+         style="border-radius:50%; box-shadow:0 0 30px #ffcc00;">
+</div>
+        """,
+        unsafe_allow_html=True
+    )
+
+    # Earth on the right
+    st.markdown(
+        """
+        <div class="planet-container">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg"
+                 alt="planet" width="170"
+                 style="border-radius:50%; box-shadow:0 0 25px #5bc0be;">
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
+
+set_space_theme()
+
 st.title("🛰️ Industry Resilience Explorer")
 
 METRICS_CSV = Path("data/processed/resilience_metrics.csv")
@@ -71,7 +109,6 @@ if METRICS_CSV.exists():
         "🔮 Shock Simulator"
     ])
 
-    # ---------------- TAB 1 ----------------
     with tab1:
         st.subheader("📊 Resilience Metrics (Full Dataset)")
         st.dataframe(df_metrics)
@@ -131,7 +168,6 @@ if METRICS_CSV.exists():
             v = st.slider("Volatility", 0.0, 1.0, 0.1, step=0.01)
             b = st.slider("Baseline (normalized/level)", 0.0, 1.0, 0.5, step=0.01)
 
-            # Build input and predict
             X_input = np.array([[g, v, b, g * v]], dtype=np.float64)
             X_input = np.nan_to_num(X_input, nan=0.0, posinf=0.0, neginf=0.0)
             X_input = scaler.transform(X_input)

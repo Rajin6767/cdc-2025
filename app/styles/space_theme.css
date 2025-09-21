@@ -1,0 +1,46 @@
+.planet-container {
+    text-align: right;   /* push Earth image to right */
+    margin: 20px 40px 40px 0;
+}
+
+
+/* Main background with stars + gradient */
+[data-testid="stAppViewContainer"] {
+    background:
+        url("https://www.transparenttextures.com/patterns/stardust.png") repeat,
+        linear-gradient(180deg, #0d1b2a, #000000) !important;
+    background-size: auto, cover;
+    color: #e0e6ed !important;
+    overflow: hidden;
+}
+
+
+/* Sidebar */
+[data-testid="stSidebar"] {
+    background-color: #1b263b !important;
+    border-right: 2px solid #5bc0be;
+}
+[data-testid="stSidebar"] * {
+    color: #e0e6ed !important;
+}
+
+
+/* Header */
+[data-testid="stHeader"] {
+    background: linear-gradient(90deg, #000000, #1e3c72, #2a5298) !important;
+    color: #ffffff !important;
+}
+
+
+/* Buttons */
+.stButton>button {
+    background: linear-gradient(90deg, #3a0ca3, #4361ee, #5bc0be);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 16px;
+    box-shadow: 0px 0px 10px #5bc0be;
+}
+.stButton>button:hover {
+    box-shadow: 0px 0px 20px #5bc0be;
+}
