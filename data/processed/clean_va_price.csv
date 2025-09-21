@@ -1,0 +1,1191 @@
+
+
+Industry,Year,Nominal_Value,Price_Index,Real_Value
+Space economy1,2012,110992,108.853,101965.0354
+    Private industries,2012,90312,113.087,79860.63827
+        Mining,2012,50,94.206,53.07517568
+            Oil and gas extraction,2012,37,94.219,39.27021089
+"            Mining, except oil and gas",2012,0,99.838,0
+            Support activities for mining,2012,13,94.252,13.79281076
+        Utilities,2012,1,104.662,0.955456613
+        Construction,2012,229,86.315,265.3073046
+        Manufacturing,2012,34461,142.443,24192.83503
+            Durable goods,2012,34033,142.941,23809.12404
+                Wood products,2012,20,93.84,21.31287298
+                Nonmetallic mineral products,2012,51,95.153,53.59788971
+                Primary metals,2012,47,94.319,49.83089303
+                Fabricated metal products,2012,243,93.633,259.5238858
+                Machinery,2012,779,94.74,822.2503694
+                Computer and electronic products2,2012,21899,182.754,11982.77466
+"                Electrical equipment, appliances, and components",2012,635,103.766,611.9538192
+"                Motor vehicles, bodies and trailers, and parts",2012,2,117.021,1.709094949
+                Other transportation equipment3,2012,9798,96.108,10194.78087
+                Furniture and related products,2012,16,94.111,17.00120071
+                Miscellaneous manufacturing,2012,543,94.15,576.7392459
+            Nondurable goods,2012,427,101.781,419.5282027
+                Food and beverage and tobacco products,2012,211,94.264,223.8394297
+                Textile mills and textile product mills,2012,8,97.752,8.183975775
+                Apparel and leather and allied products,2012,2,105.725,1.891700166
+                Paper products,2012,9,96.272,9.348512548
+                Printing and related support activities,2012,3,171.538,1.748883629
+                Petroleum and coal products,2012,43,94.089,45.70141037
+                Chemical products,2012,50,489.948,10.20516463
+                Plastics and rubber products,2012,102,96.97,105.1871713
+        Wholesale trade,2012,16804,115.931,14494.82882
+        Retail trade,2012,190,86.722,219.0908881
+            Motor vehicle and parts dealers,2012,1,103.247,0.968551144
+            Food and beverage stores,2012,1,82.539,1.21154848
+            General merchandise stores,2012,24,102.357,23.44734605
+            Other retail,2012,165,84.759,194.6695926
+        Transportation and warehousing,2012,833,91.588,909.5077958
+            Air transportation,2012,457,95.885,476.6126089
+            Rail transportation,2012,2,96.329,2.076217961
+            Water transportation,2012,0,81.655,0
+            Truck transportation,2012,348,87.54,397.5325565
+            Transit and ground passenger transportation,2012,0,87.319,0
+            Pipeline transportation,2012,0,99.306,0
+            Other transportation and support activities,2012,21,93.315,22.50442051
+            Warehousing and storage,2012,4,98.6,4.056795132
+        Information,2012,29778,94.489,31514.7795
+"            Publishing industries, except internet (includes software)",2012,297,97.385,304.9750988
+            Motion picture and sound recording industries,2012,37,92.446,40.02336499
+            Broadcasting and telecommunications4,2012,29130,94.537,30813.33235
+"            Data processing, internet publishing, and other information services",2012,315,90.662,347.4443538
+"        Finance, insurance, real estate, rental, and leasing",2012,236,97.263,242.6410865
+            Finance and insurance,2012,234,97.239,240.644186
+"                Federal Reserve banks, credit intermediation, and related activities",2012,12,100.035,11.99580147
+"                Securities, commodity contracts, and investments",2012,5,97.525,5.126890541
+                Insurance carriers and related activities,2012,217,97.25,223.1362468
+"                Funds, trusts, and other financial vehicles",2012,0,98.841,0
+            Real estate and rental and leasing,2012,1,99.218,1.007881634
+                Real estate,2012,0,98.603,0
+                    Housing,2012,0,99.532,0
+                    Other real estate,2012,0,98.431,0
+                Rental and leasing services and lessors of intangible assets,2012,1,100.012,0.999880014
+        Professional and business services,2012,6015,92.82,6480.284421
+"            Professional, scientific, and technical services",2012,5833,92.698,6292.476645
+                Legal services,2012,1,102.807,0.972696412
+                Computer systems design and related services,2012,526,106.426,494.2401293
+"                Miscellaneous professional, scientific, and technical services",2012,5307,91.656,5790.128306
+            Management of companies and enterprises,2012,162,95.899,168.927726
+            Administrative and waste management services,2012,20,98.467,20.31137335
+                Administrative and support services,2012,20,98.453,20.31426163
+                Waste management and remediation services,2012,0,104.794,0
+"        Educational services, health care, and social assistance",2012,1638,95.301,1718.764756
+            Educational services,2012,1565,95.377,1640.85681
+            Health care and social assistance,2012,73,93.435,78.12918071
+                Ambulatory health care services,2012,2,103.884,1.925224289
+                Hospitals,2012,70,93.032,75.24292716
+                Nursing and residential care facilities,2012,0,102.231,0
+                Social assistance,2012,0,104.829,0
+"        Arts, entertainment, recreation, accommodation, and food services",2012,73,88.735,82.26742548
+"            Arts, entertainment, and recreation",2012,70,88.344,79.23571493
+"                Performing arts, spectator sports, museums, and related activities",2012,70,88.291,79.28327916
+"                Amusements, gambling, and recreation industries",2012,0,103.496,0
+            Accommodation and food services,2012,3,99.465,3.016136329
+                Accommodation,2012,3,99.482,3.015620916
+                Food services and drinking places,2012,0,95.442,0
+"        Other services, except government",2012,3,99.1,3.027245207
+    Government5,2012,20680,91.865,22511.29375
+        Federal,2012,18663,91.196,20464.71336
+            General government,2012,18660,91.195,20461.64812
+            General government,2012,18660,99.765,18703.95429
+                National defense,2012,3519,95.464,3686.206319
+                Nondefense,2012,15141,90.233,16779.89206
+            Government enterprises,2012,3,104.209,2.878830043
+            Government enterprises,2012,3,103.523,2.897906745
+        State and local,2012,2017,99.765,2021.751115
+            General government,2012,2017,91.195,2211.744065
+            General government,2012,2017,99.765,2021.751115
+            Government enterprises,2012,0,104.209,0
+            Government enterprises,2012,0,103.523,0
+"Space economy excluding satellite television, satellite radio, and educational services6",2012,86723,115.984,74771.52021
+Space economy1,2013,118492,106.217,111556.5305
+    Private industries,2013,97511,109.355,89169.21951
+        Mining,2013,39,94.918,41.08809709
+            Oil and gas extraction,2013,29,94.94,30.54560775
+"            Mining, except oil and gas",2013,0,94.343,0
+            Support activities for mining,2013,10,94.946,10.53230257
+        Utilities,2013,1,103.549,0.965726371
+        Construction,2013,212,88.498,239.5534362
+        Manufacturing,2013,36744,137.161,26788.95604
+            Durable goods,2013,36246,137.6,26341.56977
+                Wood products,2013,12,94.515,12.6963974
+                Nonmetallic mineral products,2013,60,95.441,62.86606385
+                Primary metals,2013,51,97.256,52.43892408
+                Fabricated metal products,2013,419,94.484,443.4613268
+                Machinery,2013,753,95.446,788.9277707
+                Computer and electronic products2,2013,22602,170.947,13221.6418
+"                Electrical equipment, appliances, and components",2013,754,97.271,775.1539513
+"                Motor vehicles, bodies and trailers, and parts",2013,2,114.668,1.744165766
+                Other transportation equipment3,2013,10838,97.789,11083.04615
+                Furniture and related products,2013,21,94.778,22.15704066
+                Miscellaneous manufacturing,2013,734,94.817,774.1227839
+            Nondurable goods,2013,498,100.166,497.17469
+                Food and beverage and tobacco products,2013,291,94.912,306.5997977
+                Textile mills and textile product mills,2013,12,97.242,12.34034676
+                Apparel and leather and allied products,2013,6,100.616,5.96326628
+                Paper products,2013,34,95.943,35.43770781
+                Printing and related support activities,2013,2,141.541,1.413018136
+                Petroleum and coal products,2013,13,94.819,13.71033232
+                Chemical products,2013,13,380.068,3.420440553
+                Plastics and rubber products,2013,126,96.809,130.1531882
+        Wholesale trade,2013,17443,101.636,17162.22598
+        Retail trade,2013,244,99.429,245.4012411
+            Motor vehicle and parts dealers,2013,1,108.689,0.920056307
+            Food and beverage stores,2013,1,84.725,1.180289171
+            General merchandise stores,2013,28,102.427,27.33654212
+            Other retail,2013,214,99.101,215.9413124
+        Transportation and warehousing,2013,751,91.505,820.7201792
+            Air transportation,2013,377,93.668,402.4853739
+            Rail transportation,2013,1,98.609,1.014106217
+            Water transportation,2013,1,79.694,1.254799609
+            Truck transportation,2013,356,89.765,396.591099
+            Transit and ground passenger transportation,2013,0,91.177,0
+            Pipeline transportation,2013,0,98.335,0
+            Other transportation and support activities,2013,13,93.705,13.87332586
+            Warehousing and storage,2013,3,99.546,3.013682117
+        Information,2013,33865,95.52,35453.30821
+"            Publishing industries, except internet (includes software)",2013,277,98.788,280.398429
+            Motion picture and sound recording industries,2013,41,94.604,43.33854805
+            Broadcasting and telecommunications4,2013,32882,95.561,34409.43481
+"            Data processing, internet publishing, and other information services",2013,665,91.933,723.3528766
+"        Finance, insurance, real estate, rental, and leasing",2013,140,96.821,144.59673
+            Finance and insurance,2013,139,96.792,143.6069097
+"                Federal Reserve banks, credit intermediation, and related activities",2013,11,99.512,11.05394324
+"                Securities, commodity contracts, and investments",2013,6,97.362,6.162568559
+                Insurance carriers and related activities,2013,122,96.791,126.0447769
+"                Funds, trusts, and other financial vehicles",2013,0,98.159,0
+            Real estate and rental and leasing,2013,2,99.335,2.013389037
+                Real estate,2013,1,98.426,1.01599171
+                    Housing,2013,0,98.984,0
+                    Other real estate,2013,0,98.294,0
+                Rental and leasing services and lessors of intangible assets,2013,1,100.311,0.996899642
+        Professional and business services,2013,6406,93.5,6851.336898
+"            Professional, scientific, and technical services",2013,6198,93.388,6636.827001
+                Legal services,2013,1,102.011,0.98028644
+                Computer systems design and related services,2013,373,105.426,353.8026673
+"                Miscellaneous professional, scientific, and technical services",2013,5824,92.461,6298.871957
+            Management of companies and enterprises,2013,170,96.385,176.3759921
+            Administrative and waste management services,2013,38,97.958,38.7921354
+                Administrative and support services,2013,38,97.946,38.79688808
+                Waste management and remediation services,2013,0,103.859,0
+"        Educational services, health care, and social assistance",2013,1581,96.694,1635.054916
+            Educational services,2013,1508,96.793,1557.963902
+            Health care and social assistance,2013,74,94.346,78.43469781
+                Ambulatory health care services,2013,2,102.854,1.94450386
+                Hospitals,2013,71,94.003,75.52950438
+                Nursing and residential care facilities,2013,0,101.489,0
+                Social assistance,2013,0,103.786,0
+"        Arts, entertainment, recreation, accommodation, and food services",2013,81,90.659,89.34579027
+"            Arts, entertainment, and recreation",2013,77,90.333,85.24016694
+"                Performing arts, spectator sports, museums, and related activities",2013,77,90.304,85.26754075
+"                Amusements, gambling, and recreation industries",2013,0,98.764,0
+            Accommodation and food services,2013,4,99.821,4.007172839
+                Accommodation,2013,4,99.843,4.006289875
+                Food services and drinking places,2013,0,94.661,0
+"        Other services, except government",2013,4,101.059,3.958083892
+    Government5,2013,20981,93.36,22473.22194
+        Federal,2013,19126,92.645,20644.39527
+            General government,2013,19124,92.644,20642.45931
+            General government,2013,19124,101.774,18790.6538
+                National defense,2013,3581,95.383,3754.337775
+                Nondefense,2013,15543,92.021,16890.70973
+            Government enterprises,2013,3,104.089,2.88214893
+            Government enterprises,2013,3,104.212,2.878747169
+        State and local,2013,1855,101.774,1822.665907
+            General government,2013,1855,92.644,2002.28833
+            General government,2013,1855,101.774,1822.665907
+            Government enterprises,2013,0,104.089,0
+            Government enterprises,2013,0,104.212,0
+"Space economy excluding satellite television, satellite radio, and educational services6",2013,90928,111.786,81341.13395
+Space economy1,2014,116827,103.231,113170.4624
+    Private industries,2014,95054,105.039,90494.00699
+        Mining,2014,50,97.208,51.43609579
+            Oil and gas extraction,2014,37,97.24,38.05018511
+"            Mining, except oil and gas",2014,0,96.663,0
+            Support activities for mining,2014,13,97.208,13.37338491
+        Utilities,2014,1,102.934,0.971496299
+        Construction,2014,316,91.359,345.8881993
+        Manufacturing,2014,34351,126.661,27120.42381
+            Durable goods,2014,33866,126.902,26686.73465
+                Wood products,2014,19,96.817,19.6246527
+                Nonmetallic mineral products,2014,64,97.744,65.47716484
+                Primary metals,2014,80,98.344,81.34710811
+                Fabricated metal products,2014,314,96.864,324.1658408
+                Machinery,2014,707,97.524,724.949756
+                Computer and electronic products2,2014,20089,147.705,13600.75827
+"                Electrical equipment, appliances, and components",2014,757,95.371,793.7423326
+"                Motor vehicles, bodies and trailers, and parts",2014,2,108.809,1.838083247
+                Other transportation equipment3,2014,11135,100.076,11126.54383
+                Furniture and related products,2014,20,97.087,20.60008034
+                Miscellaneous manufacturing,2014,679,97.138,699.0055385
+            Nondurable goods,2014,485,101.488,477.8890115
+                Food and beverage and tobacco products,2014,298,97.245,306.4424906
+                Textile mills and textile product mills,2014,11,99.765,11.02591089
+                Apparel and leather and allied products,2014,6,103.377,5.803998955
+                Paper products,2014,27,98.397,27.43986097
+                Printing and related support activities,2014,2,147.466,1.356244829
+                Petroleum and coal products,2014,12,97.117,12.35623011
+                Chemical products,2014,12,244.564,4.906691091
+                Plastics and rubber products,2014,117,99.276,117.8532576
+        Wholesale trade,2014,17997,94.997,18944.80878
+        Retail trade,2014,256,98.825,259.0437642
+            Motor vehicle and parts dealers,2014,1,102.251,0.977985545
+            Food and beverage stores,2014,1,89.041,1.123078133
+            General merchandise stores,2014,30,104.595,28.68205937
+            Other retail,2014,225,98.142,229.2596442
+        Transportation and warehousing,2014,686,94.386,726.8027038
+            Air transportation,2014,301,95.813,314.1536117
+            Rail transportation,2014,1,100.364,0.996373202
+            Water transportation,2014,1,91.582,1.091917626
+            Truck transportation,2014,372,93.365,398.4362448
+            Transit and ground passenger transportation,2014,0,91.868,0
+            Pipeline transportation,2014,0,98.284,0
+            Other transportation and support activities,2014,8,95.171,8.405921972
+            Warehousing and storage,2014,3,100.902,2.973181899
+        Information,2014,33128,95.347,34744.66947
+"            Publishing industries, except internet (includes software)",2014,252,100.558,250.6016428
+            Motion picture and sound recording industries,2014,39,96.743,40.31299422
+            Broadcasting and telecommunications4,2014,32177,95.332,33752.56997
+"            Data processing, internet publishing, and other information services",2014,660,93.521,705.7238481
+"        Finance, insurance, real estate, rental, and leasing",2014,128,97.666,131.0589151
+            Finance and insurance,2014,126,97.64,129.0454732
+"                Federal Reserve banks, credit intermediation, and related activities",2014,10,99.505,10.04974624
+"                Securities, commodity contracts, and investments",2014,7,98.245,7.125044532
+                Insurance carriers and related activities,2014,110,97.715,112.5722765
+"                Funds, trusts, and other financial vehicles",2014,0,98.49,0
+            Real estate and rental and leasing,2014,2,99.878,2.00244298
+                Real estate,2014,1,98.896,1.011163242
+                    Housing,2014,0,99.376,0
+                    Other real estate,2014,1,98.781,1.01234043
+                Rental and leasing services and lessors of intangible assets,2014,1,100.906,0.991021347
+        Professional and business services,2014,6522,95.553,6825.53138
+"            Professional, scientific, and technical services",2014,6346,95.455,6648.158818
+                Legal services,2014,1,101.731,0.982984538
+                Computer systems design and related services,2014,413,104.581,394.9092091
+"                Miscellaneous professional, scientific, and technical services",2014,5932,94.696,6264.256146
+            Management of companies and enterprises,2014,119,98.167,121.2219992
+            Administrative and waste management services,2014,57,98.89,57.6398018
+                Administrative and support services,2014,57,98.885,57.64271629
+                Waste management and remediation services,2014,0,102.685,0
+"        Educational services, health care, and social assistance",2014,1524,99.161,1536.894545
+            Educational services,2014,1462,99.265,1472.825266
+            Health care and social assistance,2014,62,96.7,64.11582213
+                Ambulatory health care services,2014,2,102.213,1.956698267
+                Hospitals,2014,60,96.452,62.2071082
+                Nursing and residential care facilities,2014,0,101.276,0
+                Social assistance,2014,0,102.982,0
+"        Arts, entertainment, recreation, accommodation, and food services",2014,90,92.195,97.61917674
+"            Arts, entertainment, and recreation",2014,86,91.915,93.56470652
+"                Performing arts, spectator sports, museums, and related activities",2014,86,91.892,93.58812519
+"                Amusements, gambling, and recreation industries",2014,0,98.916,0
+            Accommodation and food services,2014,4,100.278,3.988910828
+                Accommodation,2014,4,100.3,3.988035892
+                Food services and drinking places,2014,0,95.244,0
+"        Other services, except government",2014,4,100.866,3.965657407
+    Government5,2014,21773,95.671,22758.20259
+        Federal,2014,19962,94.963,21020.81863
+            General government,2014,19959,94.962,21017.88084
+            General government,2014,19959,104.013,19188.94754
+                National defense,2014,3695,97.002,3809.19981
+                Nondefense,2014,16265,94.493,17212.91524
+            Government enterprises,2014,2,104.212,1.919164779
+            Government enterprises,2014,2,100.321,1.993600542
+        State and local,2014,1812,104.013,1742.089931
+            General government,2014,1812,94.962,1908.131674
+            General government,2014,1812,104.013,1742.089931
+            Government enterprises,2014,0,104.212,0
+            Government enterprises,2014,0,100.321,0
+"Space economy excluding satellite television, satellite radio, and educational services6",2014,90081,107.543,83762.77396
+Space economy1,2015,123034,100.959,121865.3117
+    Private industries,2015,100521,102.017,98533.57774
+        Mining,2015,45,99.546,45.20523175
+            Oil and gas extraction,2015,32,99.584,32.13367609
+"            Mining, except oil and gas",2015,1,99.053,1.009560538
+            Support activities for mining,2015,12,99.528,12.05690861
+        Utilities,2015,2,102.711,1.947211107
+        Construction,2015,383,94.373,405.8364151
+        Manufacturing,2015,33630,114.918,29264.34501
+            Durable goods,2015,33418,115.009,29056.85642
+                Wood products,2015,5,99.147,5.043016934
+                Nonmetallic mineral products,2015,27,100.02,26.99460108
+                Primary metals,2015,69,101.713,67.83793615
+                Fabricated metal products,2015,360,99.352,362.3480151
+                Machinery,2015,429,99.583,430.7964211
+                Computer and electronic products2,2015,19869,124.237,15992.82017
+"                Electrical equipment, appliances, and components",2015,663,96.739,685.3492387
+"                Motor vehicles, bodies and trailers, and parts",2015,2,101.83,1.964057743
+                Other transportation equipment3,2015,11641,100.995,11526.31318
+                Furniture and related products,2015,11,99.434,11.0626144
+                Miscellaneous manufacturing,2015,342,99.478,343.7946079
+            Nondurable goods,2015,211,102.329,206.1976566
+                Food and beverage and tobacco products,2015,131,99.589,131.540632
+                Textile mills and textile product mills,2015,6,101.917,5.88714346
+                Apparel and leather and allied products,2015,3,105.179,2.852280398
+                Paper products,2015,14,100.61,13.91511778
+                Printing and related support activities,2015,1,142.349,0.702498788
+                Petroleum and coal products,2015,5,99.441,5.028107119
+                Chemical products,2015,11,172.989,6.358785819
+                Plastics and rubber products,2015,39,101.375,38.47102343
+        Wholesale trade,2015,20548,96.246,21349.45868
+        Retail trade,2015,321,96.977,331.0063211
+            Motor vehicle and parts dealers,2015,1,98.778,1.012371176
+            Food and beverage stores,2015,1,95.673,1.045226971
+            General merchandise stores,2015,34,104.399,32.56736176
+            Other retail,2015,286,96.078,297.6748059
+        Transportation and warehousing,2015,708,100.715,702.9737378
+            Air transportation,2015,341,103.929,328.1086126
+            Rail transportation,2015,1,99.714,1.002868203
+            Water transportation,2015,1,105.562,0.947310585
+            Truck transportation,2015,355,98.37,360.8823828
+            Transit and ground passenger transportation,2015,0,92.708,0
+            Pipeline transportation,2015,0,98.818,0
+            Other transportation and support activities,2015,7,94.215,7.429814785
+            Warehousing and storage,2015,2,99.051,2.019161846
+        Information,2015,35700,95.195,37501.96964
+"            Publishing industries, except internet (includes software)",2015,415,100.702,412.1070088
+            Motion picture and sound recording industries,2015,39,98.762,39.48887224
+            Broadcasting and telecommunications4,2015,34437,95.136,36197.65388
+"            Data processing, internet publishing, and other information services",2015,809,95.169,850.0667234
+"        Finance, insurance, real estate, rental, and leasing",2015,208,99.7,208.6258776
+            Finance and insurance,2015,205,99.697,205.6230378
+"                Federal Reserve banks, credit intermediation, and related activities",2015,18,99.937,18.01134715
+"                Securities, commodity contracts, and investments",2015,8,99.291,8.057125016
+                Insurance carriers and related activities,2015,178,99.983,178.0302651
+"                Funds, trusts, and other financial vehicles",2015,0,99.253,0
+            Real estate and rental and leasing,2015,3,100.271,2.991891973
+                Real estate,2015,2,99.652,2.006984305
+                    Housing,2015,0,99.966,0
+                    Other real estate,2015,1,99.577,1.004247969
+                Rental and leasing services and lessors of intangible assets,2015,2,100.984,1.980511764
+        Professional and business services,2015,7275,99.029,7346.332892
+"            Professional, scientific, and technical services",2015,7043,98.985,7115.219478
+                Legal services,2015,1,101.718,0.983110167
+                Computer systems design and related services,2015,509,103.748,490.6118672
+"                Miscellaneous professional, scientific, and technical services",2015,6532,98.518,6630.26046
+            Management of companies and enterprises,2015,155,99.91,155.1396257
+            Administrative and waste management services,2015,77,100.276,76.78806494
+                Administrative and support services,2015,77,100.275,76.78883072
+                Waste management and remediation services,2015,0,101.711,0
+"        Educational services, health care, and social assistance",2015,1618,96.736,1672.59345
+            Educational services,2015,1544,96.613,1598.128616
+            Health care and social assistance,2015,73,99.333,73.4901795
+                Ambulatory health care services,2015,2,101.569,1.969104747
+                Hospitals,2015,70,99.204,70.5616709
+                Nursing and residential care facilities,2015,0,101.212,0
+                Social assistance,2015,0,102.095,0
+"        Arts, entertainment, recreation, accommodation, and food services",2015,81,94.862,85.38719403
+"            Arts, entertainment, and recreation",2015,78,94.639,82.41845328
+"                Performing arts, spectator sports, museums, and related activities",2015,77,94.626,81.37298417
+"                Amusements, gambling, and recreation industries",2015,0,98.869,0
+            Accommodation and food services,2015,4,101.638,3.935535922
+                Accommodation,2015,4,101.655,3.934877773
+                Food services and drinking places,2015,0,98.189,0
+"        Other services, except government",2015,4,99.84,4.006410256
+    Government5,2015,22513,96.486,23332.91877
+        Federal,2015,20648,96.278,21446.22863
+            General government,2015,20645,96.277,21443.33538
+            General government,2015,20645,98.974,20859.01348
+                National defense,2015,3790,97.582,3883.913017
+                Nondefense,2015,16855,95.97,17562.78004
+            Government enterprises,2015,2,103.494,1.932479178
+            Government enterprises,2015,2,97.749,2.046056737
+        State and local,2015,1865,98.974,1884.333259
+            General government,2015,1865,96.277,1937.118938
+            General government,2015,1865,98.974,1884.333259
+            Government enterprises,2015,0,103.494,0
+            Government enterprises,2015,0,97.749,0
+"Space economy excluding satellite television, satellite radio, and educational services6",2015,94575,104.07,90876.33324
+Space economy1,2016,122521,99.568,123052.5872
+    Private industries,2016,99501,99.997,99503.98512
+        Mining,2016,25,97.083,25.75116138
+            Oil and gas extraction,2016,18,97.1,18.53759011
+"            Mining, except oil and gas",2016,1,96.905,1.031938496
+            Support activities for mining,2016,7,97.082,7.210399456
+        Utilities,2016,2,99.976,2.000480115
+        Construction,2016,392,97.244,403.1097034
+        Manufacturing,2016,33706,104.074,32386.57109
+            Durable goods,2016,33470,104.12,32145.60123
+                Wood products,2016,5,96.934,5.158148844
+                Nonmetallic mineral products,2016,28,96.944,28.8826539
+                Primary metals,2016,48,98.998,48.485828
+                Fabricated metal products,2016,314,97.276,322.792878
+                Machinery,2016,422,97.448,433.0514736
+                Computer and electronic products2,2016,21871,106.471,20541.74376
+"                Electrical equipment, appliances, and components",2016,701,97.253,720.8003866
+"                Motor vehicles, bodies and trailers, and parts",2016,2,101.091,1.978415487
+                Other transportation equipment3,2016,9720,100.103,9709.998701
+                Furniture and related products,2016,9,96.974,9.280838163
+                Miscellaneous manufacturing,2016,350,96.932,361.077869
+            Nondurable goods,2016,236,97.562,241.8974601
+                Food and beverage and tobacco products,2016,131,96.921,135.1616265
+                Textile mills and textile product mills,2016,9,96.769,9.300499127
+                Apparel and leather and allied products,2016,5,96.637,5.174001676
+                Paper products,2016,17,96.865,17.55019873
+                Printing and related support activities,2016,1,98.928,1.010836164
+                Petroleum and coal products,2016,9,96.981,9.28016828
+                Chemical products,2016,7,123.412,5.672057823
+                Plastics and rubber products,2016,57,96.777,58.89829195
+        Wholesale trade,2016,21122,97.36,21694.74117
+        Retail trade,2016,437,91.403,478.1024693
+            Motor vehicle and parts dealers,2016,1,99.936,1.00064041
+            Food and beverage stores,2016,1,100.33,0.996710854
+            General merchandise stores,2016,48,103.831,46.22896823
+            Other retail,2016,387,89.925,430.3586322
+        Transportation and warehousing,2016,754,101.434,743.3404973
+            Air transportation,2016,358,104.218,343.5107179
+            Rail transportation,2016,2,97.713,2.046810557
+            Water transportation,2016,1,92.738,1.078306627
+            Truck transportation,2016,368,99.479,369.9273213
+            Transit and ground passenger transportation,2016,0,96.756,0
+            Pipeline transportation,2016,1,97.205,1.028753665
+            Other transportation and support activities,2016,20,96.362,20.75506943
+            Warehousing and storage,2016,3,97.685,3.071095869
+        Information,2016,34120,98.602,34603.76057
+"            Publishing industries, except internet (includes software)",2016,353,98.369,358.8528906
+            Motion picture and sound recording industries,2016,36,95.866,37.55241692
+            Broadcasting and telecommunications4,2016,32827,98.666,33270.83291
+"            Data processing, internet publishing, and other information services",2016,904,96.586,935.9534508
+"        Finance, insurance, real estate, rental, and leasing",2016,254,99.906,254.2389846
+            Finance and insurance,2016,249,99.934,249.1644485
+"                Federal Reserve banks, credit intermediation, and related activities",2016,28,98.589,28.40073436
+"                Securities, commodity contracts, and investments",2016,12,97.947,12.25152378
+                Insurance carriers and related activities,2016,209,100.493,207.9746848
+"                Funds, trusts, and other financial vehicles",2016,0,97.802,0
+            Real estate and rental and leasing,2016,5,98.759,5.062829717
+                Real estate,2016,3,98.282,3.052440935
+                    Housing,2016,1,98.611,1.01408565
+                    Other real estate,2016,2,98.203,2.03659766
+                Rental and leasing services and lessors of intangible assets,2016,2,99.318,2.013733664
+        Professional and business services,2016,7026,97.165,7230.998816
+"            Professional, scientific, and technical services",2016,6694,97.133,6891.581646
+                Legal services,2016,2,99.971,2.000580168
+                Computer systems design and related services,2016,522,101.597,513.7946987
+"                Miscellaneous professional, scientific, and technical services",2016,6170,96.691,6381.152331
+            Management of companies and enterprises,2016,236,97.668,241.6349265
+            Administrative and waste management services,2016,96,98.222,97.73777769
+                Administrative and support services,2016,96,98.22,97.73976787
+                Waste management and remediation services,2016,0,100.373,0
+"        Educational services, health care, and social assistance",2016,1564,98.062,1594.909343
+            Educational services,2016,1487,98.114,1515.583913
+            Health care and social assistance,2016,77,97.118,79.28499351
+                Ambulatory health care services,2016,4,100.027,3.998920292
+                Hospitals,2016,73,96.957,75.29110843
+                Nursing and residential care facilities,2016,0,99.472,0
+                Social assistance,2016,0,100.817,0
+"        Arts, entertainment, recreation, accommodation, and food services",2016,94,97.32,96.58857378
+"            Arts, entertainment, and recreation",2016,91,97.204,93.6175466
+"                Performing arts, spectator sports, museums, and related activities",2016,91,97.194,93.62717863
+"                Amusements, gambling, and recreation industries",2016,0,100.508,0
+            Accommodation and food services,2016,3,101.287,2.961880597
+                Accommodation,2016,3,101.295,2.961646676
+                Food services and drinking places,2016,0,99.829,0
+"        Other services, except government",2016,5,97.456,5.13052044
+    Government5,2016,23020,97.759,23547.70405
+        Federal,2016,21250,97.708,21748.47505
+            General government,2016,21247,97.707,21745.62723
+            General government,2016,21247,98.406,21591.16314
+                National defense,2016,4084,98.615,4141.357806
+                Nondefense,2016,17163,97.491,17604.70197
+            Government enterprises,2016,3,102.498,2.926886378
+            Government enterprises,2016,3,96.267,3.1163327
+        State and local,2016,1770,98.406,1798.670813
+            General government,2016,1770,97.707,1811.53858
+            General government,2016,1770,98.406,1798.670813
+            Government enterprises,2016,0,102.498,0
+            Government enterprises,2016,0,96.267,0
+"Space economy excluding satellite television, satellite radio, and educational services6",2016,95558,100.427,95151.70223
+Space economy1,2017,122183,100,122183
+    Private industries,2017,98699,100,98699
+        Mining,2017,10,100,10
+            Oil and gas extraction,2017,6,100,6
+"            Mining, except oil and gas",2017,1,100,1
+            Support activities for mining,2017,3,100,3
+        Utilities,2017,2,100,2
+        Construction,2017,585,100,585
+        Manufacturing,2017,32514,100,32514
+            Durable goods,2017,32295,100,32295
+                Wood products,2017,4,100,4
+                Nonmetallic mineral products,2017,27,100,27
+                Primary metals,2017,45,100,45
+                Fabricated metal products,2017,266,100,266
+                Machinery,2017,402,100,402
+                Computer and electronic products2,2017,21708,100,21708
+"                Electrical equipment, appliances, and components",2017,622,100,622
+"                Motor vehicles, bodies and trailers, and parts",2017,2,100,2
+                Other transportation equipment3,2017,8848,100,8848
+                Furniture and related products,2017,10,100,10
+                Miscellaneous manufacturing,2017,363,100,363
+            Nondurable goods,2017,218,100,218
+                Food and beverage and tobacco products,2017,118,100,118
+                Textile mills and textile product mills,2017,7,100,7
+                Apparel and leather and allied products,2017,4,100,4
+                Paper products,2017,24,100,24
+                Printing and related support activities,2017,1,100,1
+                Petroleum and coal products,2017,7,100,7
+                Chemical products,2017,6,100,6
+                Plastics and rubber products,2017,52,100,52
+        Wholesale trade,2017,21736,100,21736
+        Retail trade,2017,379,100,379
+            Motor vehicle and parts dealers,2017,0,100,0
+            Food and beverage stores,2017,1,100,1
+            General merchandise stores,2017,42,100,42
+            Other retail,2017,335,100,335
+        Transportation and warehousing,2017,729,100,729
+            Air transportation,2017,291,100,291
+            Rail transportation,2017,3,100,3
+            Water transportation,2017,0,100,0
+            Truck transportation,2017,416,100,416
+            Transit and ground passenger transportation,2017,0,100,0
+            Pipeline transportation,2017,2,100,2
+            Other transportation and support activities,2017,13,100,13
+            Warehousing and storage,2017,4,100,4
+        Information,2017,33759,100,33759
+"            Publishing industries, except internet (includes software)",2017,285,100,285
+            Motion picture and sound recording industries,2017,43,100,43
+            Broadcasting and telecommunications4,2017,32481,100,32481
+"            Data processing, internet publishing, and other information services",2017,950,100,950
+"        Finance, insurance, real estate, rental, and leasing",2017,220,100,220
+            Finance and insurance,2017,214,100,214
+"                Federal Reserve banks, credit intermediation, and related activities",2017,28,100,28
+"                Securities, commodity contracts, and investments",2017,40,100,40
+                Insurance carriers and related activities,2017,145,100,145
+"                Funds, trusts, and other financial vehicles",2017,0,100,0
+            Real estate and rental and leasing,2017,6,100,6
+                Real estate,2017,3,100,3
+                    Housing,2017,1,100,1
+                    Other real estate,2017,3,100,3
+                Rental and leasing services and lessors of intangible assets,2017,3,100,3
+        Professional and business services,2017,7153,100,7153
+"            Professional, scientific, and technical services",2017,6853,100,6853
+                Legal services,2017,2,100,2
+                Computer systems design and related services,2017,730,100,730
+"                Miscellaneous professional, scientific, and technical services",2017,6121,100,6121
+            Management of companies and enterprises,2017,191,100,191
+            Administrative and waste management services,2017,109,100,109
+                Administrative and support services,2017,109,100,109
+                Waste management and remediation services,2017,0,100,0
+"        Educational services, health care, and social assistance",2017,1506,100,1506
+            Educational services,2017,1424,100,1424
+            Health care and social assistance,2017,82,100,82
+                Ambulatory health care services,2017,4,100,4
+                Hospitals,2017,78,100,78
+                Nursing and residential care facilities,2017,0,100,0
+                Social assistance,2017,0,100,0
+"        Arts, entertainment, recreation, accommodation, and food services",2017,102,100,102
+"            Arts, entertainment, and recreation",2017,99,100,99
+"                Performing arts, spectator sports, museums, and related activities",2017,99,100,99
+"                Amusements, gambling, and recreation industries",2017,0,100,0
+            Accommodation and food services,2017,3,100,3
+                Accommodation,2017,3,100,3
+                Food services and drinking places,2017,0,100,0
+"        Other services, except government",2017,5,100,5
+    Government5,2017,23485,100,23485
+        Federal,2017,21806,100,21806
+            General government,2017,21803,100,21803
+            General government,2017,21803,100,21803
+                National defense,2017,4227,100,4227
+                Nondefense,2017,17576,100,17576
+            Government enterprises,2017,3,100,3
+            Government enterprises,2017,3,100,3
+        State and local,2017,1679,100,1679
+            General government,2017,1679,100,1679
+            General government,2017,1679,100,1679
+            Government enterprises,2017,0,100,0
+            Government enterprises,2017,0,100,0
+"Space economy excluding satellite television, satellite radio, and educational services6",2017,95734,100,95734
+Space economy1,2018,121296,101.599,119387.0018
+    Private industries,2018,96277,101.135,95196.5195
+        Mining,2018,4,103.62,3.860258637
+            Oil and gas extraction,2018,3,103.561,2.896843406
+"            Mining, except oil and gas",2018,0,103.934,0
+            Support activities for mining,2018,1,103.681,0.96449687
+        Utilities,2018,2,99.506,2.00992905
+        Construction,2018,372,103.368,359.8792663
+        Manufacturing,2018,32100,95.568,33588.64892
+            Durable goods,2018,31877,95.513,33374.51446
+                Wood products,2018,5,103.98,4.808617042
+                Nonmetallic mineral products,2018,29,104.207,27.82922452
+                Primary metals,2018,36,110.607,32.54766877
+                Fabricated metal products,2018,188,104.497,179.9094711
+                Machinery,2018,424,103.417,409.9906205
+                Computer and electronic products2,2018,20775,92.987,22341.83273
+"                Electrical equipment, appliances, and components",2018,654,102.503,638.0301064
+"                Motor vehicles, bodies and trailers, and parts",2018,1,99.312,1.006927662
+                Other transportation equipment3,2018,9366,100.128,9354.026846
+                Furniture and related products,2018,9,104.009,8.653097328
+                Miscellaneous manufacturing,2018,391,104.101,375.5967762
+            Nondurable goods,2018,223,103.78,214.8776257
+                Food and beverage and tobacco products,2018,120,104.143,115.2261794
+                Textile mills and textile product mills,2018,8,105.164,7.60716595
+                Apparel and leather and allied products,2018,4,106.341,3.761484282
+                Paper products,2018,18,104.446,17.23378588
+                Printing and related support activities,2018,1,111.831,0.894206436
+                Petroleum and coal products,2018,29,104.035,27.8752343
+                Chemical products,2018,5,80.93,6.178178673
+                Plastics and rubber products,2018,39,105.042,37.12800594
+        Wholesale trade,2018,22086,102.028,21646.99886
+        Retail trade,2018,438,99.057,442.1696599
+            Motor vehicle and parts dealers,2018,0,99.946,0
+            Food and beverage stores,2018,1,103.514,0.966052901
+            General merchandise stores,2018,49,97.486,50.2636276
+            Other retail,2018,387,99.247,389.9362197
+        Transportation and warehousing,2018,883,102.833,858.673772
+            Air transportation,2018,412,96.874,425.2947127
+            Rail transportation,2018,3,103.499,2.89857873
+            Water transportation,2018,1,109.793,0.910804878
+            Truck transportation,2018,451,107.8,418.3673469
+            Transit and ground passenger transportation,2018,0,103.719,0
+            Pipeline transportation,2018,2,103.513,1.932124467
+            Other transportation and support activities,2018,12,104.08,11.52959262
+            Warehousing and storage,2018,4,103.942,3.848300013
+        Information,2018,31603,105.627,29919.43348
+"            Publishing industries, except internet (includes software)",2018,218,101.907,213.9205354
+            Motion picture and sound recording industries,2018,39,103.581,37.65169288
+            Broadcasting and telecommunications4,2018,30409,105.65,28782.77331
+"            Data processing, internet publishing, and other information services",2018,937,105.945,884.4211619
+"        Finance, insurance, real estate, rental, and leasing",2018,155,100.685,153.9454735
+            Finance and insurance,2018,150,100.66,149.0164912
+"                Federal Reserve banks, credit intermediation, and related activities",2018,20,101.235,19.75601324
+"                Securities, commodity contracts, and investments",2018,10,102.205,9.78425713
+                Insurance carriers and related activities,2018,121,100.24,120.7102953
+"                Funds, trusts, and other financial vehicles",2018,0,103.093,0
+            Real estate and rental and leasing,2018,6,101.398,5.917276475
+                Real estate,2018,4,102.073,3.918764022
+                    Housing,2018,1,101.655,0.983719443
+                    Other real estate,2018,3,102.176,2.936110241
+                Rental and leasing services and lessors of intangible assets,2018,2,100.416,1.991714468
+        Professional and business services,2018,6774,103.605,6538.294484
+"            Professional, scientific, and technical services",2018,6515,103.641,6286.122288
+                Legal services,2018,1,99.73,1.00270731
+                Computer systems design and related services,2018,600,97.948,612.5699351
+"                Miscellaneous professional, scientific, and technical services",2018,5913,104.289,5669.821362
+            Management of companies and enterprises,2018,159,102.909,154.5054368
+            Administrative and waste management services,2018,101,102.423,98.61066362
+                Administrative and support services,2018,101,102.426,98.60777537
+                Waste management and remediation services,2018,0,99.855,0
+"        Educational services, health care, and social assistance",2018,1751,103.242,1696.015188
+            Educational services,2018,1661,103.22,1609.184267
+            Health care and social assistance,2018,90,103.651,86.82984245
+                Ambulatory health care services,2018,3,99.959,3.001230505
+                Hospitals,2018,86,103.838,82.82131782
+                Nursing and residential care facilities,2018,0,100.399,0
+                Social assistance,2018,0,98.983,0
+"        Arts, entertainment, recreation, accommodation, and food services",2018,105,99.564,105.4598047
+"            Arts, entertainment, and recreation",2018,102,99.606,102.4034697
+"                Performing arts, spectator sports, museums, and related activities",2018,102,99.604,102.4055259
+"                Amusements, gambling, and recreation industries",2018,0,100.203,0
+            Accommodation and food services,2018,3,98.057,3.059445017
+                Accommodation,2018,3,98.047,3.059757055
+                Food services and drinking places,2018,0,99.927,0
+"        Other services, except government",2018,4,98.744,4.050879041
+    Government5,2018,25019,103.484,24176.68432
+        Federal,2018,23137,103.467,22361.7192
+            General government,2018,23134,103.468,22358.60363
+            General government,2018,23134,103.695,22309.65813
+                National defense,2018,4999,102.634,4870.705614
+                Nondefense,2018,18135,103.685,17490.47596
+            Government enterprises,2018,3,98.277,3.052596233
+            Government enterprises,2018,3,105.272,2.84976062
+        State and local,2018,1883,103.695,1815.902406
+            General government,2018,1883,103.468,1819.886342
+            General government,2018,1883,103.695,1815.902406
+            Government enterprises,2018,0,98.277,0
+            Government enterprises,2018,0,105.272,0
+"Space economy excluding satellite television, satellite radio, and educational services6",2018,96791,100.003,96788.09636
+Space economy1,2019,128189,104.337,122860.5384
+    Private industries,2019,100522,104.088,96574.05272
+        Mining,2019,6,104.859,5.721969502
+            Oil and gas extraction,2019,4,104.74,3.818980332
+"            Mining, except oil and gas",2019,0,105.514,0
+            Support activities for mining,2019,2,104.976,1.905197378
+        Utilities,2019,1,98.556,1.014651569
+        Construction,2019,1152,109.891,1048.311509
+        Manufacturing,2019,34946,93.028,37565.03418
+            Durable goods,2019,34765,92.954,37400.21946
+                Wood products,2019,4,105.635,3.786623752
+                Nonmetallic mineral products,2019,26,105.659,24.60746363
+                Primary metals,2019,31,110.929,27.94580317
+                Fabricated metal products,2019,179,106.407,168.2220155
+                Machinery,2019,398,105.018,378.9826506
+                Computer and electronic products2,2019,20452,88.251,23174.80822
+"                Electrical equipment, appliances, and components",2019,603,108.874,553.8512409
+"                Motor vehicles, bodies and trailers, and parts",2019,1,99.919,1.000810657
+                Other transportation equipment3,2019,12704,101.233,12549.26753
+                Furniture and related products,2019,8,105.537,7.580279902
+                Miscellaneous manufacturing,2019,359,105.666,339.7497776
+            Nondurable goods,2019,181,104.752,172.7890637
+                Food and beverage and tobacco products,2019,91,105.679,86.10982314
+                Textile mills and textile product mills,2019,6,106.156,5.652059234
+                Apparel and leather and allied products,2019,3,106.614,2.813889358
+                Paper products,2019,17,105.84,16.06198035
+                Printing and related support activities,2019,1,102.412,0.976448072
+                Petroleum and coal products,2019,23,105.608,21.77865313
+                Chemical products,2019,5,71.428,7.000056
+                Plastics and rubber products,2019,34,106.143,32.03225837
+        Wholesale trade,2019,21546,111.759,19278.98424
+        Retail trade,2019,591,88.493,667.8494344
+            Motor vehicle and parts dealers,2019,0,100.691,0
+            Food and beverage stores,2019,1,105.837,0.944849155
+            General merchandise stores,2019,70,102.737,68.13514119
+            Other retail,2019,519,86.744,598.3122752
+        Transportation and warehousing,2019,746,107.879,691.5154942
+            Air transportation,2019,263,103.557,253.9664146
+            Rail transportation,2019,3,105.608,2.840693887
+            Water transportation,2019,1,123.19,0.811754201
+            Truck transportation,2019,436,111.636,390.5550181
+            Transit and ground passenger transportation,2019,1,105.493,0.947930194
+            Pipeline transportation,2019,2,105.083,1.903257425
+            Other transportation and support activities,2019,36,107.454,33.50270814
+            Warehousing and storage,2019,4,105.286,3.799175579
+        Information,2019,32257,110.977,29066.38312
+"            Publishing industries, except internet (includes software)",2019,242,102.115,236.9877099
+            Motion picture and sound recording industries,2019,46,102.901,44.70316129
+            Broadcasting and telecommunications4,2019,30938,111.106,27845.48089
+"            Data processing, internet publishing, and other information services",2019,1031,109.553,941.0970033
+"        Finance, insurance, real estate, rental, and leasing",2019,136,102.679,132.4516211
+            Finance and insurance,2019,129,102.712,125.5938936
+"                Federal Reserve banks, credit intermediation, and related activities",2019,19,101.541,18.71165342
+"                Securities, commodity contracts, and investments",2019,9,102.736,8.760317708
+                Insurance carriers and related activities,2019,102,102.713,99.30583276
+"                Funds, trusts, and other financial vehicles",2019,0,104.043,0
+            Real estate and rental and leasing,2019,7,102.149,6.852734731
+                Real estate,2019,4,102.928,3.886211721
+                    Housing,2019,1,102.284,0.977670017
+                    Other real estate,2019,3,103.088,2.91013503
+                Rental and leasing services and lessors of intangible assets,2019,3,101.023,2.969620779
+        Professional and business services,2019,7125,105.295,6766.703072
+"            Professional, scientific, and technical services",2019,6842,105.369,6493.370916
+                Legal services,2019,1,99.032,1.009774618
+                Computer systems design and related services,2019,644,95.334,675.5197516
+"                Miscellaneous professional, scientific, and technical services",2019,6197,106.504,5818.560805
+            Management of companies and enterprises,2019,179,103.857,172.3523691
+            Administrative and waste management services,2019,105,102.973,101.9684772
+                Administrative and support services,2019,104,102.976,100.9944065
+                Waste management and remediation services,2019,0,99.174,0
+"        Educational services, health care, and social assistance",2019,1905,104.626,1820.771128
+            Educational services,2019,1829,104.601,1748.549249
+            Health care and social assistance,2019,76,105.067,72.33479589
+                Ambulatory health care services,2019,4,99.44,4.022526146
+                Hospitals,2019,72,105.36,68.33712984
+                Nursing and residential care facilities,2019,0,100.086,0
+                Social assistance,2019,0,97.804,0
+"        Arts, entertainment, recreation, accommodation, and food services",2019,108,101.046,106.8820141
+"            Arts, entertainment, and recreation",2019,104,101.146,102.8216637
+"                Performing arts, spectator sports, museums, and related activities",2019,104,101.148,102.8196306
+"                Amusements, gambling, and recreation industries",2019,0,100.473,0
+            Accommodation and food services,2019,3,97.564,3.074904678
+                Accommodation,2019,3,97.567,3.07481013
+                Food services and drinking places,2019,0,97.355,0
+"        Other services, except government",2019,5,92.215,5.42211137
+    Government5,2019,27666,105.4,26248.57685
+        Federal,2019,25564,105.428,24247.8279
+            General government,2019,25561,105.428,24244.98236
+            General government,2019,25561,105.076,24326.20199
+                National defense,2019,5413,103.805,5214.585039
+                Nondefense,2019,20148,105.864,19031.96554
+            Government enterprises,2019,3,99.309,3.020874241
+            Government enterprises,2019,3,108.034,2.776903567
+        State and local,2019,2102,105.076,2000.456812
+            General government,2019,2102,105.428,1993.777744
+            General government,2019,2102,105.076,2000.456812
+            Government enterprises,2019,0,99.309,0
+            Government enterprises,2019,0,108.034,0
+"Space economy excluding satellite television, satellite radio, and educational services6",2019,103499,101.761,101707.9235
+Space economy1,2020,124239,105.283,118004.8061
+    Private industries,2020,96800,105.027,92166.77616
+        Mining,2020,2,109.125,1.832760596
+            Oil and gas extraction,2020,1,108.789,0.919210582
+"            Mining, except oil and gas",2020,0,110.711,0
+            Support activities for mining,2020,1,109.52,0.913075237
+        Utilities,2020,1,98.049,1.019898214
+        Construction,2020,992,116.663,850.3124384
+        Manufacturing,2020,32618,91.577,35618.11372
+            Durable goods,2020,32440,91.47,35465.17984
+                Wood products,2020,3,111.122,2.699735426
+                Nonmetallic mineral products,2020,26,111.6,23.29749104
+                Primary metals,2020,35,116.848,29.95344379
+                Fabricated metal products,2020,182,112.202,162.2074473
+                Machinery,2020,379,109.748,345.3365893
+                Computer and electronic products2,2020,19152,85.067,22514.01836
+"                Electrical equipment, appliances, and components",2020,522,112.506,463.9752547
+"                Motor vehicles, bodies and trailers, and parts",2020,1,97.331,1.02742189
+                Other transportation equipment3,2020,11802,102.245,11542.86273
+                Furniture and related products,2020,9,111.109,8.100153903
+                Miscellaneous manufacturing,2020,328,111.419,294.3842612
+            Nondurable goods,2020,178,110.678,160.8269033
+                Food and beverage and tobacco products,2020,101,111.498,90.58458448
+                Textile mills and textile product mills,2020,5,114.029,4.384849468
+                Apparel and leather and allied products,2020,3,116.871,2.566932772
+                Paper products,2020,13,112.147,11.59192845
+                Printing and related support activities,2020,1,128.862,0.776023964
+                Petroleum and coal products,2020,21,111.28,18.8713156
+                Chemical products,2020,5,66.007,7.574954172
+                Plastics and rubber products,2020,29,113.793,25.48487165
+        Wholesale trade,2020,23218,116.051,20006.72118
+        Retail trade,2020,387,95.199,406.5168752
+            Motor vehicle and parts dealers,2020,1,102.334,0.977192331
+            Food and beverage stores,2020,1,110.93,0.901469395
+            General merchandise stores,2020,51,96.995,52.5800299
+            Other retail,2020,335,95.075,352.3534052
+        Transportation and warehousing,2020,681,106.266,640.8446728
+            Air transportation,2020,191,96.224,198.4951779
+            Rail transportation,2020,3,108.549,2.763728823
+            Water transportation,2020,1,113.899,0.877970834
+            Truck transportation,2020,452,112.761,400.8478109
+            Transit and ground passenger transportation,2020,0,110.606,0
+            Pipeline transportation,2020,1,109.508,0.913175293
+            Other transportation and support activities,2020,31,111.378,27.83314479
+            Warehousing and storage,2020,3,107.939,2.779347594
+        Information,2020,29746,111.37,26709.16764
+"            Publishing industries, except internet (includes software)",2020,253,104.1,243.0355427
+            Motion picture and sound recording industries,2020,37,108.986,33.94931459
+            Broadcasting and telecommunications4,2020,28477,111.359,25572.24831
+"            Data processing, internet publishing, and other information services",2020,978,113.435,862.1677613
+"        Finance, insurance, real estate, rental, and leasing",2020,105,108.133,97.10264212
+            Finance and insurance,2020,96,108.413,88.55026611
+"                Federal Reserve banks, credit intermediation, and related activities",2020,17,103.343,16.45007403
+"                Securities, commodity contracts, and investments",2020,11,105.291,10.44723671
+                Insurance carriers and related activities,2020,68,109.654,62.01324165
+"                Funds, trusts, and other financial vehicles",2020,0,105.498,0
+            Real estate and rental and leasing,2020,9,104.139,8.642295394
+                Real estate,2020,6,106.03,5.658775818
+                    Housing,2020,1,104.947,0.952861921
+                    Other real estate,2020,5,106.3,4.703668862
+                Rental and leasing services and lessors of intangible assets,2020,3,101.182,2.964954241
+        Professional and business services,2020,6795,110.693,6138.59955
+"            Professional, scientific, and technical services",2020,6534,110.842,5894.877393
+                Legal services,2020,1,98.885,1.011275724
+                Computer systems design and related services,2020,654,93.276,701.1449891
+"                Miscellaneous professional, scientific, and technical services",2020,5879,112.92,5206.340772
+            Management of companies and enterprises,2020,157,107.723,145.7441772
+            Administrative and waste management services,2020,103,106.081,97.09561561
+                Administrative and support services,2020,103,106.087,97.09012414
+                Waste management and remediation services,2020,0,98.802,0
+"        Educational services, health care, and social assistance",2020,2136,105.378,2026.988555
+            Educational services,2020,2094,105.226,1990.002471
+            Health care and social assistance,2020,42,109.793,38.25380489
+                Ambulatory health care services,2020,3,99.306,3.020965501
+                Hospitals,2020,39,110.493,35.29635362
+                Nursing and residential care facilities,2020,0,100.453,0
+                Social assistance,2020,0,96.435,0
+"        Arts, entertainment, recreation, accommodation, and food services",2020,113,104.786,107.8388334
+"            Arts, entertainment, and recreation",2020,111,104.991,105.7233477
+"                Performing arts, spectator sports, museums, and related activities",2020,111,105.009,105.7052253
+"                Amusements, gambling, and recreation industries",2020,0,99.152,0
+            Accommodation and food services,2020,2,96.784,2.066457266
+                Accommodation,2020,2,96.771,2.066734869
+                Food services and drinking places,2020,0,98.491,0
+"        Other services, except government",2020,5,94.139,5.311295
+    Government5,2020,27439,106.372,25795.32208
+        Federal,2020,25041,106.45,23523.72006
+            General government,2020,25039,106.451,23521.62028
+            General government,2020,25039,105.487,23736.57418
+                National defense,2020,6275,105.416,5952.606815
+                Nondefense,2020,18764,106.713,17583.61212
+            Government enterprises,2020,2,95.755,2.088663777
+            Government enterprises,2020,2,108.652,1.840739241
+        State and local,2020,2397,105.487,2272.317916
+            General government,2020,2397,106.451,2251.740237
+            General government,2020,2397,105.487,2272.317916
+            Government enterprises,2020,0,95.755,0
+            Government enterprises,2020,0,108.652,0
+"Space economy excluding satellite television, satellite radio, and educational services6",2020,101670,102.839,98863.27172
+Space economy1,2021,125219,112.243,111560.6318
+    Private industries,2021,97034,113.4,85567.90123
+        Mining,2021,2,110.856,1.804142311
+            Oil and gas extraction,2021,2,110.277,1.813614806
+"            Mining, except oil and gas",2021,0,113.607,0
+            Support activities for mining,2021,1,111.546,0.896491134
+        Utilities,2021,2,96.744,2.067311668
+        Construction,2021,617,120.287,512.9398854
+        Manufacturing,2021,34186,88.75,38519.43662
+            Durable goods,2021,33985,88.62,38349.13112
+                Wood products,2021,8,114.184,7.00623555
+                Nonmetallic mineral products,2021,26,114.613,22.68503573
+                Primary metals,2021,37,150.808,24.53450745
+                Fabricated metal products,2021,239,117.117,204.0694348
+                Machinery,2021,452,110.97,407.317293
+                Computer and electronic products2,2021,20759,80.423,25812.26763
+"                Electrical equipment, appliances, and components",2021,527,135.119,390.0265692
+"                Motor vehicles, bodies and trailers, and parts",2021,1,97.784,1.022662194
+                Other transportation equipment3,2021,11523,101.68,11332.61212
+                Furniture and related products,2021,8,114.126,7.00979619
+                Miscellaneous manufacturing,2021,406,114.593,354.2973829
+            Nondurable goods,2021,200,112.849,177.2279772
+                Food and beverage and tobacco products,2021,113,114.599,98.60469987
+                Textile mills and textile product mills,2021,5,116.504,4.291698139
+                Apparel and leather and allied products,2021,3,118.356,2.534725743
+                Paper products,2021,18,115.013,15.65040474
+                Printing and related support activities,2021,1,119.955,0.833645951
+                Petroleum and coal products,2021,18,114.391,15.73550367
+                Chemical products,2021,5,53.851,9.284878647
+                Plastics and rubber products,2021,36,116.184,30.98533361
+        Wholesale trade,2021,22996,161.335,14253.57176
+        Retail trade,2021,587,103.006,569.8697163
+            Motor vehicle and parts dealers,2021,1,109.196,0.915784461
+            Food and beverage stores,2021,1,109.865,0.910207983
+            General merchandise stores,2021,68,101.31,67.12071859
+            Other retail,2021,517,103.411,499.9468142
+        Transportation and warehousing,2021,694,110.722,626.7950362
+            Air transportation,2021,161,87.448,184.1094136
+            Rail transportation,2021,4,109.926,3.638811564
+            Water transportation,2021,1,129.496,0.772224625
+            Truck transportation,2021,503,123.468,407.3930087
+            Transit and ground passenger transportation,2021,0,113.122,0
+            Pipeline transportation,2021,1,112.258,0.89080511
+            Other transportation and support activities,2021,20,117.411,17.03417908
+            Warehousing and storage,2021,3,112.685,2.662288681
+        Information,2021,27937,114.687,24359.34326
+"            Publishing industries, except internet (includes software)",2021,281,104.006,270.1767206
+            Motion picture and sound recording industries,2021,38,111.982,33.93402511
+            Broadcasting and telecommunications4,2021,26590,114.658,23190.70627
+"            Data processing, internet publishing, and other information services",2021,1029,118.264,870.0872624
+"        Finance, insurance, real estate, rental, and leasing",2021,123,110.286,111.5282085
+            Finance and insurance,2021,115,110.562,104.0140374
+"                Federal Reserve banks, credit intermediation, and related activities",2021,28,104.278,26.85130133
+"                Securities, commodity contracts, and investments",2021,13,106.768,12.17593286
+                Insurance carriers and related activities,2021,74,112.288,65.90196637
+"                Funds, trusts, and other financial vehicles",2021,0,105.234,0
+            Real estate and rental and leasing,2021,8,106.304,7.525586996
+                Real estate,2021,5,107.879,4.634822347
+                    Housing,2021,1,106.308,0.940662979
+                    Other real estate,2021,4,108.271,3.694433412
+                Rental and leasing services and lessors of intangible assets,2021,3,103.938,2.886336085
+        Professional and business services,2021,7565,111.639,6776.305771
+"            Professional, scientific, and technical services",2021,7293,111.775,6524.714829
+                Legal services,2021,2,97.597,2.049243317
+                Computer systems design and related services,2021,860,89.34,962.6147302
+"                Miscellaneous professional, scientific, and technical services",2021,6431,114.595,5611.937694
+            Management of companies and enterprises,2021,159,109.11,145.7244982
+            Administrative and waste management services,2021,113,107.203,105.4074979
+                Administrative and support services,2021,113,107.211,105.3996325
+                Waste management and remediation services,2021,0,97.314,0
+"        Educational services, health care, and social assistance",2021,2227,105.466,2111.580983
+            Educational services,2021,2137,105.257,2030.268771
+            Health care and social assistance,2021,90,111.725,80.55493399
+                Ambulatory health care services,2021,4,97.967,4.083007543
+                Hospitals,2021,86,112.697,76.31081573
+                Nursing and residential care facilities,2021,0,99.488,0
+                Social assistance,2021,0,94.426,0
+"        Arts, entertainment, recreation, accommodation, and food services",2021,93,106.671,87.18395815
+"            Arts, entertainment, and recreation",2021,90,106.937,84.16170268
+"                Performing arts, spectator sports, museums, and related activities",2021,90,106.958,84.14517848
+"                Amusements, gambling, and recreation industries",2021,0,99.884,0
+            Accommodation and food services,2021,2,95.824,2.087159793
+                Accommodation,2021,2,95.794,2.087813433
+                Food services and drinking places,2021,0,99.159,0
+"        Other services, except government",2021,5,94.599,5.285468134
+    Government5,2021,28184,108.482,25980.34697
+        Federal,2021,25679,108.818,23598.11796
+            General government,2021,25669,108.821,23588.278
+            General government,2021,25669,104.98,24451.32406
+                National defense,2021,7698,107.441,7164.862576
+                Nondefense,2021,17972,109.219,16455.01241
+            Government enterprises,2021,9,94.384,9.535514494
+            Government enterprises,2021,9,111.707,8.056791428
+        State and local,2021,2506,104.98,2387.121356
+            General government,2021,2506,108.821,2302.864337
+            General government,2021,2506,104.98,2387.121356
+            Government enterprises,2021,0,94.384,0
+            Government enterprises,2021,0,111.707,0
+"Space economy excluding satellite television, satellite radio, and educational services6",2021,104995,110.052,95404.8995
+Space economy1,2022,134077,116.321,115264.6556
+    Private industries,2022,102731,117.034,87778.76515
+        Mining,2022,2,113.01,1.769754889
+            Oil and gas extraction,2022,1,112.273,0.890686095
+"            Mining, except oil and gas",2022,0,116.71,0
+            Support activities for mining,2022,1,113.855,0.878310131
+        Utilities,2022,2,97.592,2.049348307
+        Construction,2022,842,133.304,631.6389606
+        Manufacturing,2022,34427,88.822,38759.54156
+            Durable goods,2022,34172,88.682,38533.18599
+                Wood products,2022,6,117.372,5.111951743
+                Nonmetallic mineral products,2022,29,117.403,24.70124273
+                Primary metals,2022,44,147.857,29.75848286
+                Fabricated metal products,2022,261,119.702,218.0414696
+                Machinery,2022,514,112.924,455.173391
+                Computer and electronic products2,2022,20685,78.585,26321.81714
+"                Electrical equipment, appliances, and components",2022,603,144.552,417.1509215
+"                Motor vehicles, bodies and trailers, and parts",2022,2,104.632,1.911461121
+                Other transportation equipment3,2022,11498,105.633,10884.85606
+                Furniture and related products,2022,9,116.997,7.692504936
+                Miscellaneous manufacturing,2022,521,117.581,443.0988
+            Nondurable goods,2022,255,115.145,221.4598984
+                Food and beverage and tobacco products,2022,153,117.516,130.1950373
+                Textile mills and textile product mills,2022,7,118.312,5.916559605
+                Apparel and leather and allied products,2022,4,118.767,3.367938906
+                Paper products,2022,19,117.777,16.132182
+                Printing and related support activities,2022,1,111.463,0.897158698
+                Petroleum and coal products,2022,19,117.35,16.19088198
+                Chemical products,2022,6,49.758,12.05836247
+                Plastics and rubber products,2022,46,118.227,38.90820202
+        Wholesale trade,2022,26000,174.786,14875.33326
+        Retail trade,2022,565,93.851,602.0180925
+            Motor vehicle and parts dealers,2022,1,125.684,0.795646224
+            Food and beverage stores,2022,1,127.804,0.782448124
+            General merchandise stores,2022,73,128.111,56.98183606
+            Other retail,2022,490,89.888,545.1228195
+        Transportation and warehousing,2022,1239,135.311,915.6683492
+            Air transportation,2022,564,98.594,572.0429235
+            Rail transportation,2022,5,115.623,4.324399125
+            Water transportation,2022,0,157.562,0
+            Truck transportation,2022,641,157.768,406.2927843
+            Transit and ground passenger transportation,2022,0,116.095,0
+            Pipeline transportation,2022,1,115.406,0.866506074
+            Other transportation and support activities,2022,23,130.076,17.68197054
+            Warehousing and storage,2022,4,119.883,3.336586505
+        Information,2022,26849,117.906,22771.52986
+"            Publishing industries, except internet (includes software)",2022,317,103.608,305.9609297
+            Motion picture and sound recording industries,2022,43,112.719,38.14796086
+            Broadcasting and telecommunications4,2022,25362,117.873,21516.3778
+"            Data processing, internet publishing, and other information services",2022,1126,122.842,916.6246072
+"        Finance, insurance, real estate, rental, and leasing",2022,214,116.533,183.6389692
+            Finance and insurance,2022,205,116.874,175.4025703
+"                Federal Reserve banks, credit intermediation, and related activities",2022,28,106.227,26.35864705
+"                Securities, commodity contracts, and investments",2022,14,108.913,12.85429655
+                Insurance carriers and related activities,2022,163,120.298,135.4968495
+"                Funds, trusts, and other financial vehicles",2022,0,106.326,0
+            Real estate and rental and leasing,2022,9,111.171,8.095636452
+                Real estate,2022,6,110.135,5.447859445
+                    Housing,2022,1,108.25,0.923787529
+                    Other real estate,2022,4,110.609,3.616342251
+                Rental and leasing services and lessors of intangible assets,2022,3,113.249,2.649030014
+        Professional and business services,2022,9802,113.196,8659.316584
+"            Professional, scientific, and technical services",2022,9490,113.328,8373.923479
+                Legal services,2022,2,97.874,2.043443611
+                Computer systems design and related services,2022,953,86.525,1101.415776
+"                Miscellaneous professional, scientific, and technical services",2022,8535,116.841,7304.798829
+            Management of companies and enterprises,2022,171,110.843,154.272259
+            Administrative and waste management services,2022,141,108.759,129.6444432
+                Administrative and support services,2022,141,108.769,129.632524
+                Waste management and remediation services,2022,0,97.29,0
+"        Educational services, health care, and social assistance",2022,2695,107.966,2496.156197
+            Educational services,2022,2434,107.816,2257.5499
+            Health care and social assistance,2022,261,113.415,230.1282899
+                Ambulatory health care services,2022,4,98.245,4.071454018
+                Hospitals,2022,256,114.452,223.6745535
+                Nursing and residential care facilities,2022,0,100.021,0
+                Social assistance,2022,0,94.216,0
+"        Arts, entertainment, recreation, accommodation, and food services",2022,89,112.57,79.06191703
+"            Arts, entertainment, and recreation",2022,86,113.058,76.06715137
+"                Performing arts, spectator sports, museums, and related activities",2022,85,113.101,75.15406583
+"                Amusements, gambling, and recreation industries",2022,0,100.664,0
+            Accommodation and food services,2022,3,95.52,3.140703518
+                Accommodation,2022,3,95.426,3.143797288
+                Food services and drinking places,2022,0,105.465,0
+"        Other services, except government",2022,6,90.723,6.613537912
+    Government5,2022,31346,113.998,27496.97363
+        Federal,2022,28393,114.658,24763.20885
+            General government,2022,28390,114.661,24759.94453
+            General government,2022,28390,107.436,26425.03444
+                National defense,2022,9403,117.309,8015.582777
+                Nondefense,2022,18987,113.21,16771.48662
+            Government enterprises,2022,3,99.053,3.028681615
+            Government enterprises,2022,3,117.094,2.56204417
+        State and local,2022,2953,107.436,2748.613128
+            General government,2022,2953,114.661,2575.417971
+            General government,2022,2953,107.436,2748.613128
+            Government enterprises,2022,0,99.053,0
+            Government enterprises,2022,0,117.094,0
+"Space economy excluding satellite television, satellite radio, and educational services6",2022,115097,113.887,101062.4566
+Space economy1,2023,142526,122.908,115961.5322
+    Private industries,2023,106924,123.825,86350.89845
+        Mining,2023,2,114.749,1.742934579
+            Oil and gas extraction,2023,1,113.928,0.877747349
+"            Mining, except oil and gas",2023,0,118.93,0
+            Support activities for mining,2023,1,115.677,0.864476084
+        Utilities,2023,1,98.076,1.01961744
+        Construction,2023,943,146.021,645.7975223
+        Manufacturing,2023,35345,91.16,38772.48793
+            Durable goods,2023,35090,91.022,38551.11951
+                Wood products,2023,6,119.607,5.016428804
+                Nonmetallic mineral products,2023,29,119.395,24.28912434
+                Primary metals,2023,43,146.734,29.30472828
+                Fabricated metal products,2023,265,122.099,217.0369946
+                Machinery,2023,522,116.016,449.9379396
+                Computer and electronic products2,2023,20361,79.348,25660.38211
+"                Electrical equipment, appliances, and components",2023,628,152.122,412.8265471
+"                Motor vehicles, bodies and trailers, and parts",2023,1,104.634,0.955712292
+                Other transportation equipment3,2023,12699,111.403,11399.15442
+                Furniture and related products,2023,9,119.086,7.557563442
+                Miscellaneous manufacturing,2023,525,119.711,438.5561895
+            Nondurable goods,2023,256,117.029,218.7491989
+                Food and beverage and tobacco products,2023,154,119.621,128.739937
+                Textile mills and textile product mills,2023,7,119.672,5.849321479
+                Apparel and leather and allied products,2023,4,119.287,3.35325727
+                Paper products,2023,19,119.736,15.86824347
+                Printing and related support activities,2023,1,106.991,0.934658055
+                Petroleum and coal products,2023,19,119.485,15.9015776
+                Chemical products,2023,5,50.895,9.824147755
+                Plastics and rubber products,2023,46,119.692,38.4319754
+        Wholesale trade,2023,27134,192.425,14101.07834
+        Retail trade,2023,637,100.941,631.0617093
+            Motor vehicle and parts dealers,2023,1,118.75,0.842105263
+            Food and beverage stores,2023,1,147.62,0.677414984
+            General merchandise stores,2023,82,140.435,58.39000249
+            Other retail,2023,553,96.407,573.6098001
+        Transportation and warehousing,2023,1280,138.483,924.3011778
+            Air transportation,2023,669,107.262,623.7064384
+            Rail transportation,2023,3,119.849,2.503149797
+            Water transportation,2023,0,159.48,0
+            Truck transportation,2023,577,151.759,380.2080931
+            Transit and ground passenger transportation,2023,1,117.744,0.849300177
+            Pipeline transportation,2023,1,117.646,0.85000765
+            Other transportation and support activities,2023,26,134.866,19.27839485
+            Warehousing and storage,2023,4,118.919,3.36363407
+        Information,2023,27669,126.581,21858.73077
+"            Publishing industries, except internet (includes software)",2023,392,104.864,373.817516
+            Motion picture and sound recording industries,2023,51,115.371,44.20521622
+            Broadcasting and telecommunications4,2023,25989,126.554,20535.89772
+"            Data processing, internet publishing, and other information services",2023,1238,134.265,922.0571258
+"        Finance, insurance, real estate, rental, and leasing",2023,231,129.409,178.5038135
+            Finance and insurance,2023,222,130.196,170.5121509
+"                Federal Reserve banks, credit intermediation, and related activities",2023,28,107.893,25.95163727
+"                Securities, commodity contracts, and investments",2023,15,110.72,13.54768786
+                Insurance carriers and related activities,2023,178,137.119,129.8142489
+"                Funds, trusts, and other financial vehicles",2023,0,107.608,0
+            Real estate and rental and leasing,2023,9,114.546,7.857105442
+                Real estate,2023,6,111.987,5.357764741
+                    Housing,2023,1,109.981,0.909247961
+                    Other real estate,2023,4,112.493,3.555776804
+                Rental and leasing services and lessors of intangible assets,2023,3,119.232,2.51610306
+        Professional and business services,2023,10118,116.213,8706.426992
+"            Professional, scientific, and technical services",2023,9765,116.397,8389.391479
+                Legal services,2023,2,98.65,2.027369488
+                Computer systems design and related services,2023,873,87.003,1003.413675
+"                Miscellaneous professional, scientific, and technical services",2023,8890,120.273,7391.517631
+            Management of companies and enterprises,2023,193,112.411,171.6913825
+            Administrative and waste management services,2023,160,110.357,144.9840065
+                Administrative and support services,2023,160,110.368,144.9695564
+                Waste management and remediation services,2023,0,97.867,0
+"        Educational services, health care, and social assistance",2023,3444,110.353,3120.893859
+            Educational services,2023,3347,110.256,3035.662458
+            Health care and social assistance,2023,97,115.039,84.31923087
+                Ambulatory health care services,2023,4,98.949,4.042486533
+                Hospitals,2023,92,116.118,79.22974905
+                Nursing and residential care facilities,2023,0,100.855,0
+                Social assistance,2023,0,94.659,0
+"        Arts, entertainment, recreation, accommodation, and food services",2023,114,121.344,93.94778481
+"            Arts, entertainment, and recreation",2023,109,122.263,89.15207381
+"                Performing arts, spectator sports, museums, and related activities",2023,109,122.345,89.0923209
+"                Amusements, gambling, and recreation industries",2023,0,100.529,0
+            Accommodation and food services,2023,5,95.253,5.249178504
+                Accommodation,2023,5,95.16,5.254308533
+                Food services and drinking places,2023,0,105.004,0
+"        Other services, except government",2023,6,93.502,6.416975038
+    Government5,2023,35602,119.959,29678.47348
+        Federal,2023,32050,121.044,26477.97495
+            General government,2023,32047,121.047,26474.84035
+            General government,2023,32047,109.697,29214.10795
+                National defense,2023,11021,122.019,9032.199903
+                Nondefense,2023,21027,120.424,17460.80516
+            Government enterprises,2023,3,102.234,2.93444451
+            Government enterprises,2023,3,128.696,2.331074781
+        State and local,2023,3552,109.697,3238.010155
+            General government,2023,3552,121.047,2934.397383
+            General government,2023,3552,109.697,3238.010155
+            Government enterprises,2023,0,102.234,0
+            Government enterprises,2023,0,128.696,0
+"Space economy excluding satellite television, satellite radio, and educational services6",2023,123475,119.726,103131.3165
