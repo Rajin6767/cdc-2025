@@ -142,11 +142,20 @@ if METRICS_CSV.exists():
                 st.subheader("📊 Model Evaluation")
                 st.write(f"**MSE:** {mse:.4f}")
                 st.write(f"**R² Score:** {r2:.4f}")
-                chart_data = pd.DataFrame({"Actual": y_all, "Predicted": y_pred_all})
+
+                # include Industry in tooltips
+                chart_data = pd.DataFrame({
+                    "Industry": ml_df.loc[mask, "Industry"],
+                    "Actual": y_all,
+                    "Predicted": y_pred_all
+                })
+
                 scatter = alt.Chart(chart_data).mark_circle(size=80).encode(
-                    x="Actual:Q", y="Predicted:Q",
-                    tooltip=["Actual", "Predicted"]
+                    x="Actual:Q",
+                    y="Predicted:Q",
+                    tooltip=["Industry", "Actual", "Predicted"]
                 ).properties(width=600, height=400)
+
                 line = alt.Chart(chart_data).mark_line(color="red").encode(
                     x="Actual:Q", y="Actual:Q"
                 )
@@ -167,7 +176,9 @@ if METRICS_CSV.exists():
             else:
                 years_full = list(range(2012, 2041))
                 sel_year = st.selectbox("Select Year (2012–2040)", years_full, index=years_full.index(2040))
-                shock = st.slider("Apply shock to GrowthRate (e.g., -0.30 = -30%)", -1.0, 1.0, -0.20, 0.01)
+                
+                # shock slider updated: -2.0 to 0.0
+                shock = st.slider("Apply shock to GrowthRate (negative values)", -2.0, 0.0, -0.20, 0.01)
 
                 rows = []
                 for _, g in ml_df.groupby("Industry"):
