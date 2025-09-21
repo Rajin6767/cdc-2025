@@ -13,7 +13,12 @@ venv/
 *.parquet
 *.feather
 
+# Raw data: ignore everything except .gitkeep
 data/raw/*
 !data/raw/.gitkeep
+
+# Processed data: track CSVs but still keep .gitkeep
+# (this ignores random junk like .tmp but allows analysis outputs)
 data/processed/*
+!data/processed/*.csv
 !data/processed/.gitkeep
